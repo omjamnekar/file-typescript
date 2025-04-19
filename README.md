@@ -53,7 +53,7 @@ file-typescript/
 ---
 
 ### Example
-![goal image](./assets/image.png)
+![goal image](./assets/goals.jpg)
 
 ### Sample
 ![result](./assets/image.png)
