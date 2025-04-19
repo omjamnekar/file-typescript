@@ -1,0 +1,4 @@
+### Upload File
+POST http://localhost:5000/api/upload
+
+file=@assets/goals.jpg
