@@ -56,6 +56,9 @@ file-typescript/
 ![goal image](./assets/goals.jpg)
 
 ### Sample
+![result](./assets/image3.png)
+
+### Browse
 ![result](./assets/image.png)
 
 ## 🛠️ Setup & Run
